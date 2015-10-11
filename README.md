@@ -19,10 +19,9 @@ Arduino NFC unlocker with NFC-bridge from Elecfreaks and a small circut add RGB 
 
 <hr>
 <h3>Part list:</h3><br>
-
 LED1: SMD RGB LED 1x<br>
 LED2: SMD yelow LED 1208 1x<br>
-R1,R2: SMD  10Ω Resistor Bauform 1208  2x<br>
+R1,R2: SMD  10Ω Resistor 1208  2x<br>
 R3,R4: SMD 220Ω Resistor 1208  2x<br>
 OK1: Optokppler PC817 1x<br>
 JP1: Pin Header 2,54 RM 5x<br>
