@@ -3,7 +3,7 @@ Arduino NFC unlocker with NFC-bridge from Elecfreaks and a small circut add RGB 
 
 * * *
 
-+ [See this Arduino NFC Unlokert in acton Youtube](#youtube)
++ [See this Arduino NFC Unlokert in action on Youtube](#youtube)
 + [Eagle circut](#eagle)
 
 * * *
