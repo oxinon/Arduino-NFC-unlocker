@@ -17,7 +17,7 @@ Arduino NFC unlocker with NFC-bridge from Elecfreaks and a small circut add RGB 
 
 <p><img src="http://www.joeatx247.de/wp-content/uploads/2015/02/NFC-PCB1.png" alt="Eagle circut files" width="600"></a></p>
 
-Part list:<br>
+<h1>Part list:</h1><br>
 <br>
 
 LED1: SMD RGB LED 1x<br>
