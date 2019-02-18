@@ -3,14 +3,14 @@ Arduino NFC unlocker with NFC-bridge from Elecfreaks and a small circut add RGB 
 
 * * *
 
-+ [See this Arduino NFC Unlokert in action on Youtube](#youtube)
++ [See this Arduino NFC Unloker in action on YouTube](https://www.youtube.com/watch?v=7boodr89aAs)
 + [Eagle circut](#eagle)
 
 * * *
 
 ##See this Arduino NFC unlocker in acton on Youtub
 <p><center><img src="https://oxinon.com/wp-content/uploads/2018/11/Arduino-NFC-Reader.png" alt="Cover" width="500"></center></p>
-* [NFC computer unlocker V2.0 using NFC Bridge by elecfreaks with my LED Add on](https://www.youtube.com/watch?v=7boodr89aAs), for how it works
+* [YouTube video NFC computer unlocker V2.0 using NFC Bridge by elecfreaks with my LED Add on](https://www.youtube.com/watch?v=7boodr89aAs), for how it works
 
 
 ##<a name="eagle"></a>Eagle circut
