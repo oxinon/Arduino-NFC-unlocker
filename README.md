@@ -8,15 +8,15 @@ Arduino NFC unlocker with NFC-bridge from Elecfreaks and a small circut add RGB 
 
 <p><center><img src="https://github.com/oxinon/Arduino-NFC-unlocker/blob/master/picture/Arduino-NFC-Reader.png" alt="Cover" width="500"></center></p>
 
+<H3>Read UID from NFC Tag</H3>
 
+<p><img src="https://github.com/oxinon/Arduino-NFC-unlocker/blob/master/picture/Arduino-Seriell-Monitor2.png" alt="Eagle circut files" width="500"></a></p>
 
 <H3>Eagle circut</H3>
 
 <p><img src="https://github.com/oxinon/Arduino-NFC-unlocker/blob/master/picture/NFC-PCB1.png" alt="Eagle circut files" width="300"></a></p>
 
-<H3>Read UID from NFC Tag</H3>
 
-<p><img src="https://github.com/oxinon/Arduino-NFC-unlocker/blob/master/picture/Arduino-Seriell-Monitor2.png" alt="Eagle circut files" width="500"></a></p>
 
 <hr>
 <h3>Part list:</h3><br>
