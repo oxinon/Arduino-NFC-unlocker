@@ -2,10 +2,9 @@
 
 <p><center><img src="https://github.com/oxinon/Arduino-NFC-unlocker/blob/master/picture/Arduino-NFC-Reader.png" alt="Cover" width="500"></center></p>
 
-Arduino NFC unlocker with NFC-bridge from Elecfreaks and a small circut add RGB LED and Optokopler<p>
-  
+Arduino NFC unlocker with NFC-bridge from Elecfreaks and a small circut add RGB LED and Optokopler
+<br>
 YouTube Video of the NFC unlocker: https://www.youtube.com/watch?v=7boodr89aAs
-
 <br>
 <br>
 
@@ -19,7 +18,7 @@ YouTube Video of the NFC unlocker: https://www.youtube.com/watch?v=7boodr89aAs
 + [Part list](#parts)
 
 * * *
-
+<br>
 <a name="readuid"></a><h2>Read UID from NFC Tag</h2>
 
 <p><img src="https://github.com/oxinon/Arduino-NFC-unlocker/blob/master/picture/Arduino-Seriell-Monitor2.png" alt="Eagle circut files" width="500"></a></p>
