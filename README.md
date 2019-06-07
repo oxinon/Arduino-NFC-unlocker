@@ -2,7 +2,7 @@
 
 <p><center><img src="https://github.com/oxinon/Arduino-NFC-unlocker/blob/master/picture/Arduino-NFC-Reader.png" alt="Cover" width="500"></center></p>
 
-Arduino NFC unlocker with NFC-bridge from Elecfreaks and a small circut add RGB LED and Optokopler
+Arduino NFC unlocker with NFC-bridge from Elecfreaks and a small circut for RGB LED and Optokopler, that works like a normal HID, no driver is needed. This will enter a previously stored password, an up arrow key can also be entered beforehand to unlock the screen.
 <br>
 YouTube Video of the NFC unlocker: https://www.youtube.com/watch?v=7boodr89aAs
 <br>
