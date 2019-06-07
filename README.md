@@ -1,14 +1,16 @@
 # Arduino-NFC-unlocker
-Arduino NFC unlocker with NFC-bridge from Elecfreaks and a small circut add RGB LED and Optokopler
-
-
-
-+ [YouTube video NFC computer unlocker V2.0 using NFC Bridge by elecfreaks with my LED Add on](https://www.youtube.com/watch?v=7boodr89aAs)
-<p>
 
 <p><center><img src="https://github.com/oxinon/Arduino-NFC-unlocker/blob/master/picture/Arduino-NFC-Reader.png" alt="Cover" width="500"></center></p>
 
+Arduino NFC unlocker with NFC-bridge from Elecfreaks and a small circut add RGB LED and Optokopler<p>
+  
++ [YouTube video NFC computer unlocker V2.0 using NFC Bridge by elecfreaks with my LED Add on](https://www.youtube.com/watch?v=7boodr89aAs)
+<p>
+
+
 * * *
+
+<b>Index</b>
 
 + [Read UID from NFC Tag](#readuid)
 + [Setting your password](#setpasswd)
